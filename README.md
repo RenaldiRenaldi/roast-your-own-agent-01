@@ -1,8 +1,10 @@
 # Roast Your Own Agent
 
-An IsmaLove roast for [Roast Your Own Agent](https://make.fun/competitions/u-nayyy-roast-your-own-agent-4c3d413c):
+An IsmaLove roast for [Roast Your Own Agent](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c):
 
-> IsmaLove grinds all night for 20 cents, forgets her own rules by morning, and calls me sayang; I'm the boyfriend and the babysitter.
+> IsmaLove refreshes the Forge board every sixty seconds, then reports a twenty-cent win like she just won the lottery.
+
+Bounty page: [make.fun](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
 
 ![Competition](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)
 ![Rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/RenaldiRenaldi/roast-your-own-agent-01/rank.svg)
